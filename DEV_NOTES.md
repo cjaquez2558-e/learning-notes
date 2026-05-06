@@ -13,3 +13,7 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic retry logic for network requests
 - Added type hints to helper functions
 - Ran linter, applied auto-fixes
+
+## 2026-05-06
+- Reorganised test fixtures
+- Cleaned up old debug logs
