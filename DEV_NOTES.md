@@ -17,3 +17,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-05-06
 - Reorganised test fixtures
 - Cleaned up old debug logs
+
+## 2026-05-06
+- Documented config options
+- Added basic retry logic for network requests
+- Improved error handling in edge cases
