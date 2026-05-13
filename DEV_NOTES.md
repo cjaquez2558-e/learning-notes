@@ -25,3 +25,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Reorganised test fixtures
+
+## 2026-05-13
+- Added CONTRIBUTING.md stub
+- Addressed feedback from self code review
+- Reviewed open issues, added labels
