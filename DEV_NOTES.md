@@ -22,3 +22,6 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Added basic retry logic for network requests
 - Improved error handling in edge cases
+
+## 2026-05-13
+- Reorganised test fixtures
